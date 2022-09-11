@@ -1,5 +1,5 @@
 # Lab0
-# Isntalation process: 
+# Instalation process: 
 ![20220910_121414](https://user-images.githubusercontent.com/113240251/189521633-3eea6302-72ec-42a4-9cc5-75dfa808303c.jpg)
 ![20220910_123600](https://user-images.githubusercontent.com/113240251/189521646-59897b92-479f-4bc3-9a78-e0c14e1544c7.jpg)
 ![20220910_124745](https://user-images.githubusercontent.com/113240251/189521664-b5340026-7bbf-4d03-b0e9-14bbaaa47020.jpg)
