@@ -38,3 +38,7 @@
 ![Screenshot from 2022-09-11 12-44-01](https://user-images.githubusercontent.com/113240251/189522266-9ff349ed-d603-4361-9274-302f1f1dbdeb.png)
 ![Screenshot from 2022-09-11 12-45-44](https://user-images.githubusercontent.com/113240251/189522283-dc1f9802-210e-4680-ac72-478ef9e5db08.png)
 
+# Makefile script:
+![Screenshot from 2022-09-11 14-44-43](https://user-images.githubusercontent.com/113240251/189525802-8a9b375f-2084-47ff-a602-cc55d9dda4ea.png)
+![Screenshot from 2022-09-11 14-44-57](https://user-images.githubusercontent.com/113240251/189525814-172a7344-377c-4425-a878-daf7229715f8.png)
+
